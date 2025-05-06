@@ -19,8 +19,8 @@ edge.py: Change the format of the connection document for 3Dlinkp2s_picture.py
 (The user who want to use 3Dlinkp2s_picture.py need to extract the atom cooridinates from PDB file)
 
 [Libraries]
-Please install pandas, matplotlib, and networkx.
 
+Please install pandas, matplotlib, and networkx.
 
 [How to use]
 
@@ -36,6 +36,6 @@ copy the edges result and paste into 3Dlinkp2s.py
 
 Download CSPc_4E_example.zip  
 
-n example is in the CSP_input file
+An example is in the CSP_input file
 
 Run the scripts to get the connection information
