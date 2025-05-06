@@ -35,5 +35,7 @@ copy the edges result and paste into 3Dlinkp2s.py
 [Test run]
 
 Download CSPc_4E_example.zip  
-An example is in the CSP_input file
+
+n example is in the CSP_input file
+
 Run the scripts to get the connection information
