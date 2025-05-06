@@ -1,5 +1,6 @@
 # 13CMethylNetworkAnalysis
 This is a file with the Python scripts that read the chemical shifts of methyl groups and create the edges. 
+The highly perturbed nodes within the protein can be visualized by this tool.
 
 [Introudction of the scripts]
 
